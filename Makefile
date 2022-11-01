@@ -34,7 +34,8 @@ LFT_SRC		=	ft_memset.c	ft_bzero.c	ft_memcpy.c	ft_memccpy.c \
 				ft_putchar.c	ft_putstr.c	ft_putendl.c	ft_putnbr.c \
 				ft_putchar_fd.c	ft_putstr_fd.c	ft_putendl_fd.c \
 				ft_putnbr_fd.c	ft_islower.c	ft_isupper.c \
-				ft_iswhitespace.c
+				ft_iswhitespace.c	ft_numlen.c	ft_array_size.c \
+				get_next_line.c
 
 PF_SRC		=	ft_printf.c	ft_error_exit.c	ft_parse_conv.c	ft_write_conv.c \
 				ft_validity_checkers.c	ft_init_reset_conv.c \

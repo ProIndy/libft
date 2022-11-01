@@ -102,6 +102,7 @@ int			ft_isupper(int c);
 int			ft_islower(int c);
 int			ft_iswhitespace(int c);
 int			ft_numlen(long long nb);
+size_t		ft_array_size(const void **array);
 
 int			get_next_line(const int fd, char **line);
 
