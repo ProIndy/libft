@@ -24,3 +24,6 @@ Function to read a document one line at a time, so that you can use the data of 
 - ft_strsplit
 
 ### Includes a total of 59 functions
+
+## Usage
+To create the library libft.a, just run the Makefile in root
